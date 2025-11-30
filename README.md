@@ -13,7 +13,7 @@
 #### 🙋‍♂️ About Me
 一个自学计算机的化学生
 一个普通的程序员&开发者  
-一个 ENFP 患者 
+一个 ENFP 患者
 
 喜欢做些好玩有趣的事情，有什么好玩的想法欢迎找我 chat 💬
 [GitHub](https://github.com/Keith9922)之后会更新更多，欢迎follow 🎉
