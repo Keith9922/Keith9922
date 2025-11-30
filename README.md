@@ -10,7 +10,7 @@
 <tr>
 <td width="50%" valign="top" style="border: none;">
 
-#### 🙋‍♂️ About Me
+### 🙋‍♂️ About Me
 一个自学计算机的化学生
 一个普通的程序员&开发者  
 一个 ENFP 患者
@@ -26,7 +26,7 @@
 </td>
 <td width="50%" valign="top" style="border: none;">
 
-#### 🌸 My Favorite
+### 🌸 My Favorite
 
 <div align="center">
 <img src="./img&video/fgyy.jpg" alt="<sub>鬼滅之刃-富冈義勇</sub>" width="300" style="border-radius: 15px;" />
@@ -38,7 +38,7 @@
 </table>
 </div>
 
-#### 😄 Daily Jokes
+### 😄 Daily Jokes
 <div align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
