@@ -6,48 +6,39 @@
 
 ---
 
+<table border="0">
+<tr>
+<td width="50%" valign="top">
+
 ## 🙋‍♂️ About Me
 
-<div >
-
 一个自学计算机的化学生
-一个普通的程序员 & 开发者  
+一个普通的程序员&开发者  
 一个 ENFP 患者  
 
 喜欢做些好玩有趣的事情，有什么好玩的想法欢迎找我 chat 💬
 
 **📮 Contact Me**
 
-QQ：`1207831915` | WeChat：`ab15661233228`
+[![QQ](https://img.shields.io/badge/QQ-1207831915-blue?style=for-the-badge&logo=tencentqq)](tencent://message/?uin=1207831915)
+[![WeChat](https://img.shields.io/badge/WeChat-ab15661233228-green?style=for-the-badge&logo=wechat)]()
 
-</div>
-
----
-
-## 📊 GitHub Status
-
-<div align="center">
-
-![Keith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keith9922&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keith9922&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-
----
+</td>
+<td width="50%" valign="top">
 
 ## 🌸 My Favorite
 
+### 最喜欢的动漫人物
+
 <div align="center">
-
-### 我喜欢的动漫人物
-
-<img src="./img&video/fgyy.jpg" alt="鬼灭之刃-富冈义勇" width="400" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+<img src="./img&video/fgyy.jpg" alt="鬼灭之刃-富冈义勇" width="300" style="border-radius: 15px;" />
 
 **鬼灭之刃 - 富冈义勇** 🌊
-
 </div>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -64,13 +55,6 @@ QQ：`1207831915` | WeChat：`ab15661233228`
 ---
 
 <div align="center">
-
-### 💬 Let's Connect!
-
-[![QQ](https://img.shields.io/badge/QQ-1207831915-blue?style=for-the-badge&logo=tencentqq)](tencent://message/?uin=1207831915)
-[![WeChat](https://img.shields.io/badge/WeChat-ab15661233228-green?style=for-the-badge&logo=wechat)]()
-
----
 
 ![](https://komarev.com/ghpvc/?username=Keith9922&color=blueviolet&style=flat-square)
 
