@@ -11,7 +11,7 @@
 <td width="50%" valign="top" style="border: none;">
 
 ### 🙋‍♂️ About Me
-一个自学计算机的化学生
+一个自学计算机的化学生  
 一个普通的程序员&开发者  
 一个 ENFP 患者
 
