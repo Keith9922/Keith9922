@@ -1,7 +1,6 @@
 <div align="center">
 
 ## 👋 Hi there, I'm zrg!
-
 </div>
 
 ---
@@ -26,7 +25,7 @@
 </td>
 <td width="50%" valign="top" style="border: none;">
 
-### 🌸 My Favorite
+### 💙 My Oshi
 
 <div align="center">
 <img src="./img&video/fgyy.jpg" alt="<sub>鬼滅之刃-富冈義勇</sub>" width="300" style="border-radius: 15px;" />
