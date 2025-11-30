@@ -5,7 +5,7 @@
 </div>
 
 ---
-
+<div align="center">
 <table border="0">
 <tr>
 <td width="50%" valign="top">
@@ -17,6 +17,7 @@
 一个 ENFP 患者  
 
 喜欢做些好玩有趣的事情，有什么好玩的想法欢迎找我 chat 💬
+[GitHub](https://github.com/Keith9922)之后会更新更多，欢迎follow 🎉
 
 **📮 Contact Me**
 
@@ -28,17 +29,16 @@
 
 ## 🌸 My Favorite
 
-### 最喜欢的动漫人物
-
 <div align="center">
 <img src="./img&video/fgyy.jpg" alt="鬼灭之刃-富冈义勇" width="300" style="border-radius: 15px;" />
 
-**鬼灭之刃 - 富冈义勇** 🌊
+**鬼滅の刃 - 冨岡義勇** 🌊
 </div>
 
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
